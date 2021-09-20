@@ -40,12 +40,7 @@ Use code coverage to find untested code and a problem with the tests.
          
 
 
-
-
-
-
-When done, **push your work to Github, including your changes to README**.
-
+         
 ## Exercise 2: Parameterized Tests
 
 Use `TestCast.subTest()` to replace redundant test code with a loop over sets of data values.  
